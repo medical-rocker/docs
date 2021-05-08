@@ -1,0 +1,8 @@
+# ignore all directories and files
+*
+
+# allow directories below
+
+# allow files below
+!*.md
+!.gitignore
